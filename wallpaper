@@ -1,0 +1,2 @@
+#!/usr/bin/sh
+DISPLAY=:0 feh -V --no-fehbg --bg-scale -z /home/sollux/pics/wallpapers/
